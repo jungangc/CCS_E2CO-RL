@@ -6,6 +6,8 @@ Code for
 under construction
 
 step 1: run MSE2C_Ksteps.ipynb (either one should work, maybe MSE2C_Ksteps_SC.ipynb work best)
+
+
 step 2: run RL_SAC_train.ipynb 
 
 
