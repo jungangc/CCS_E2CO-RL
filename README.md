@@ -16,7 +16,7 @@ Injecting greenhouse gas (e.g. CO2) into deep underground reservoirs for permane
 
 ## Workflow
 
-![alt text]()
+![alt text](workflow)
 
 ## Citation
 If you find our research helpful, please consider citing us with：
